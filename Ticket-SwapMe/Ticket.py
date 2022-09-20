@@ -29,7 +29,7 @@ class TicketSwapMe:
 
     def login(self):
         """Login to Ticketswap using Facebook credentials"""
-        username = 'popcsev@gmail.com'
+        username = ''
         password = ''
 
         self.driver.get(HOST)
